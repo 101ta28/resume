@@ -6,7 +6,7 @@
 |:-|:-|
 |Name|Tatsuya Imai|
 |Date of Birth|December 20, 2001|
-|Residence|Ishikawa Prefecture|
+|Residence|Ishikawa Prefecture, Japan|
 |Website|https://www.101ta28.com|
 
 ---
