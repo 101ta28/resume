@@ -21,8 +21,8 @@
 
 |Period|Company Name|
 |:-|:-|
-|January 2023 ~ Present|Gakuyu-sha Corporation|
-|May 2022 ~ October 2022|Fenecis Co., Ltd.|
+|January 2023 ~ Present|Gakuyusha Corporation|
+|May 2022 ~ October 2022|Phoenisys Co., Ltd.|
 |May 2020 ~ November 2021|CirKit Co., Ltd. (Long-term Internship)|
 
 ## Skills
@@ -46,7 +46,7 @@
 - Planning and promoting new businesses
 - Speedy response in emergencies
 - Document comprehension and project completion skills
-- Support for internalization
+- Support for insourcing
 
 ---
 
