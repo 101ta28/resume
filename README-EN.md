@@ -22,7 +22,7 @@
 
 | Period              | Company                     |
 | :------------------ | :-------------------------- |
-| Jan 2023 ~ Present  | Gakuyushasha Corporation    |
+| Jan 2023 ~ Present  | Gakuyusha Corporation       |
 | May 2022 ~ Oct 2022 | Phoenysis Corporation       |
 | May 2020 ~ Nov 2021 | CirKit Corporation (Intern) |
 
