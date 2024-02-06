@@ -11,6 +11,7 @@
 | Blog      | https://blog.101ta28.com |
 
 ---
+
 ## Various Accounts
 
 [![GitHub Profile URL](https://img.shields.io/badge/101ta28-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white)](https://github.com/101ta28)
@@ -31,16 +32,31 @@
 ### Languages & Frameworks
 
 - Python
-	- FastAPI
+  - FastAPI
 - PHP
 - JavaScript
-	- Vue
-	- Vuetify
+  - Vue
+  - Vuetify
 - TypeScript
-	- React
+  - React
 - Ruby
-	- Ruby on Rails
+  - Ruby on Rails
 - Docker
+
+### OS・Tools
+
+- Linux
+  - Ubuntu
+- Git
+- Docker
+- Docker Compose
+- VSCode
+- Amazon Web Services
+  - S3
+  - DynamoDB
+  - Lambda
+  - API Gateway
+  - Rekognition
 
 ### Relevant Experience
 
@@ -63,5 +79,5 @@
 | Nov 2020 ~ Sep 2021  | **Migration and Maintenance of Company Wiki Site at CirKit Corporation**<br>**Duties:**<br> - System recovery, database migration, and maintenance operations<br> **Achievements:**<br> - Data migration in MongoDB<br> - Initial response in emergencies                                                                                                                                                | Heroku, MongoDB                  | **Role:**<br> Leader<br> **Scale:**<br> Total 3 people                             |
 | Oct 2020 ~ Sep 2021  | **Maintenance & Development of a Survey System for University Students at CirKit Corporation**<br> [SAKITO](https://sakito.cirkit.jp) <br>**Duties:**<br> As a member<br> - Implementation of new features and maintenance<br> As a leader<br> - Feature addition hearings                                                                                                                               |
 
-<br> - Task management & team leadership<br>**Achievements:**<br> - Needs hearing and requirements organization | Ruby on Rails, MySQL        | **Role:**<br> Member (until Mar 2021)<br> Leader (from Apr 2021)<br> **Scale:**<br> Total 8 people |
-| Jun 2020 ~ Aug 2020    | **Website Revision for CirKit Corporation**<br>**Duties:**<br> - Development of headers, footers, menus, etc.<br> - Design revisions<br> - Development environment setup<br>**Achievements:**<br> - Responsive adaptation of web pages                                        | React, TypeScript           | **Role:**<br> Leader<br> **Scale:**<br> Total 5 people                               |
+<br> - Task management & team leadership<br>**Achievements:**<br> - Needs hearing and requirements organization | Ruby on Rails, MySQL | **Role:**<br> Member (until Mar 2021)<br> Leader (from Apr 2021)<br> **Scale:**<br> Total 8 people |
+| Jun 2020 ~ Aug 2020 | **Website Revision for CirKit Corporation**<br>**Duties:**<br> - Development of headers, footers, menus, etc.<br> - Design revisions<br> - Development environment setup<br>**Achievements:**<br> - Responsive adaptation of web pages | React, TypeScript | **Role:**<br> Leader<br> **Scale:**<br> Total 5 people |
