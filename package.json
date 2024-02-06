@@ -3,7 +3,7 @@
         "md-to-pdf": "^5.2.4"
     },
     "scripts": {
-        "build:ja": "md-to-pdf README.md --config-file ./pdf_settings/config.js",
-        "build:en": "md-to-pdf README-EN.md --config-file ./pdf_settings/config.js"
+        "build:ja": "md-to-pdf --config-file ./pdf_settings/config.js README.md",
+        "build:en": "md-to-pdf --config-file ./pdf_settings/config.js README-EN.md"
     }
 }
