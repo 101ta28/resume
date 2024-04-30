@@ -21,11 +21,12 @@
 
 ## Work Experience
 
-| Period              | Company                     |
-| :------------------ | :-------------------------- |
-| Jan 2023 ~ Present  | Gakuyusha Corporation       |
-| May 2022 ~ Oct 2022 | Phoenysis Corporation       |
-| May 2020 ~ Nov 2021 | CirKit Corporation (Intern) |
+| Period              | Company                             |
+| :------------------ | :--------------------------         |
+| May 2023 ~ Present  | Kanazawa Institute of Technology    |
+| Jan 2023 ~ Mar 2024 | Gakuyusha Corporation               |
+| May 2022 ~ Oct 2022 | Phoenysis Corporation               |
+| May 2020 ~ Nov 2021 | CirKit Corporation (Intern)         |
 
 ## Skills
 
@@ -72,7 +73,7 @@
 
 | Period               | Work Description                                                                                                                                                                                                                                                                                                                                                                                         | Technologies Used                | Role & Scale                                                                                       |
 | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------- | :------------------------------------------------------------------------------------------------- |
-| Since June 2023      | **Digitalization Promotion within Gakuyusha Corporation**<br>**Duties:**<br> - Assisting in the spread and operation of digital services                                                                                                                                                                                                                                                                 | Assistance with Digital Services | **Role:** <br> Leader                                                                              |
+| June 2023 ~ Mar 2024      | **Digitalization Promotion within Gakuyusha Corporation**<br>**Duties:**<br> - Assisting in the spread and operation of digital services                                                                                                                                                                                                                                                                 | Assistance with Digital Services | **Role:** <br> Leader                                                                              |
 | Jan 2023 ~ June 2023 | **Development of a Document Generation System for the Invoice System at Gakuyusha Corporation**<br> **(Discontinued due to using external services)**<br>**Duties:**<br> - API design & development<br> - Frontend development                                                                                                                                                                           | Python, Vue, Docker              | **Role:** <br> Leader                                                                              |
 | Jan 2023             | **Development and Operation of an Internal Scheduling Management System at Gakuyusha Corporation**<br>**Duties:**<br> - API design & development<br> - Frontend development<br> - System operation & maintenance                                                                                                                                                                                         | Python, Vue, AWS(Lambda, DynamoDB, Amplify, APIGateway)              | **Role:** <br> Leader                                                                              |
 | May 2022 ~ Sep 2022  | **Frontend and Backend API Development for a Web System at Phoenysis Corporation**<br>**Duties:**<br> - API design & development<br> - Development and implementation of tests                                                                                                                                                                                                                           | PHP                              | **Role:**<br> Member<br> **Scale:** <br> Total 17 people<br> Development team of 5                 |
