@@ -3,7 +3,11 @@ name: Release PDF
 on:
   pull_request:
     branches: [main]
-    paths: "README.md"
+    paths:
+      - "README.md"
+      - "README.en.md"
+      - "package.json"
+      - "pdf_settings/**"
   workflow_dispatch:
 
 jobs:
@@ -31,5 +35,5 @@ jobs:
           fail_on_unmatched_files: true
           files: |
             README.pdf
-            README-EN.pdf
+            README.en.pdf
           name: Release ${{ github.ref }}
