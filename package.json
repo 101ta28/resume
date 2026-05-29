@@ -4,6 +4,6 @@
     },
     "scripts": {
         "build:ja": "md-to-pdf --config-file ./pdf_settings/config.js README.md",
-        "build:en": "md-to-pdf --config-file ./pdf_settings/config.js README-EN.md"
+        "build:en": "md-to-pdf --config-file ./pdf_settings/config.js README.en.md"
     }
 }
