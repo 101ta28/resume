@@ -26,6 +26,10 @@ jobs:
       - run: npm install
       - run: npm run build:ja
       - run: npm run build:en
+      - name: Rename PDF files
+        run: |
+          mv README.pdf Resume-Ja.pdf
+          mv README.en.pdf Resume-En.pdf
       - name: Create a draft release
         uses: softprops/action-gh-release@v1
         with:
@@ -33,6 +37,6 @@ jobs:
           draft: true
           fail_on_unmatched_files: true
           files: |
-            README.pdf
-            README.en.pdf
+            Resume-Ja.pdf
+            Resume-En.pdf
           name: Release ${{ github.ref }}
